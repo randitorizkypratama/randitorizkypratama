@@ -93,12 +93,12 @@ An interactive portfolio disguised as a browser RPG. Explore a village, talk to 
 
 ## 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=randitorizkypratama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randitorizkypratama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=randitorizkypratama&theme=tokyonight" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=randitorizkypratama&theme=tokyonight" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=randitorizkypratama&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=randitorizkypratama&theme=tokyonight&hide_border=true)
 
 </div>
 
