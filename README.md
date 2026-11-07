@@ -56,6 +56,7 @@ Story-driven RPG built in **Godot 4** with a full combat system, NPC routines, q
 
 ### 🃏 DeckMaker
 [![Repo](https://img.shields.io/badge/GitHub-DeckMaker-181717?style=flat-square&logo=github)](https://github.com/randitorizkypratama/DeckMaker)
+[![Live](https://img.shields.io/badge/Live-dueldex--web.onrender.com-46E3B7?style=flat-square&logo=render)](https://dueldex-web.onrender.com)
 
 Card deck builder with browsing, collection management, and admin panel. Mobile-first down to 320px with persistent Turso storage.
 
@@ -66,6 +67,7 @@ Card deck builder with browsing, collection management, and admin panel. Mobile-
 
 ### 🌳 FamilyTree
 [![Repo](https://img.shields.io/badge/GitHub-FamilyTree-181717?style=flat-square&logo=github)](https://github.com/randitorizkypratama/FamilyTree)
+[![Live](https://img.shields.io/badge/Live-family--tree--delta--peach.vercel.app-00DC82?style=flat-square&logo=vercel)](https://family-tree-delta-peach.vercel.app)
 
 Aplikasi pohon keluarga dengan visualisasi silsilah, kalender, statistik & panel admin multi-cabang. Multi-bahasa: 🇮🇩 🇬🇧 + Sunda. Security-hardened dengan cookie httpOnly, CSRF & CSP.
 
@@ -78,6 +80,7 @@ Aplikasi pohon keluarga dengan visualisasi silsilah, kalender, statistik & panel
 
 ### 🧑‍💻 Portfolio — RPG Edition
 [![Repo](https://img.shields.io/badge/GitHub-Portofolio-181717?style=flat-square&logo=github)](https://github.com/randitorizkypratama/Portofolio)
+[![Live](https://img.shields.io/badge/Live-pixel--quest--portfolio.vercel.app-00DC82?style=flat-square&logo=vercel)](https://pixel-quest-portfolio.vercel.app)
 
 An interactive portfolio disguised as a browser RPG. Explore a village, talk to NPCs, craft items at the blacksmith, adopt pets, hunt buried treasure, export a character card PNG — and find the CV underneath it all.
 
